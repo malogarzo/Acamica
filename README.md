@@ -2,10 +2,15 @@
 
 <h2>Web developer</h2>
 
-<h3>Level 1</h3>
-
-<h4>Starting with Web Application Development</h4>
+<h4>Level 1</h4>
 <ul>
-  <li>Contexto</li>
-  <li>Qué es una aplicación web?</li>
+  <li>Web Application Development Introduction</li>
 </ul>
+
+
+<h4>Level 2</h4>
+	<ul>
+		<li>HTML: popular language</li>
+		<li><a href="https://www.evernote.com/shard/s318/nl/2147483647/8db0da7d-b935-4c7f-9e81-431ac91b6d66/">Starting with CSS</a></li>
+	</ul>
+
