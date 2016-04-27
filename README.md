@@ -4,8 +4,7 @@
 
 <h4>Level 1</h4>
 <ul>
-  <li>Web Application Development Introduction</li>
-  <li>https://www.evernote.com/shard/s318/nl/2147483647/8db0da7d-b935-4c7f-9e81-431ac91b6d66/</li>
+  <li><a href="https://www.evernote.com/shard/s318/nl/2147483647/8db0da7d-b935-4c7f-9e81-431ac91b6d66/">Web Application Development Introduction</a></li>
 </ul>
 
 
