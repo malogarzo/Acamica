@@ -10,7 +10,6 @@
 
 <h4>Level 2</h4>
 	<ul>
-		<li>HTML: popular language</li>
 		<li><a href="https://www.evernote.com/l/AT6NsNp9uTVMf56BQxrJG21mKpH1AIlaA88">Starting with CSS</a></li>
 	</ul>
 
