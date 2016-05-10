@@ -16,4 +16,6 @@
 <h4>Level 3</h4>
 <ul>
 	<li><a href="https://www.evernote.com/l/AT6WUwwM421EYYZjpe1U-Mackv-e1ONLltg">HTML 5</a></li>
+	<li><a href="https://www.evernote.com/l/AT54NKHFyrdP7ocyoSUHbp8QL715KvPRKU8">CSS regular level</a></li>
+	<li><a href="https://www.evernote.com/l/AT7M51NJX39JEaALpNbLkVeIwGX0ZKKfATk">Programming basics</a></li>
 </ul>
