@@ -1,0 +1,22 @@
+For
+
+Completa el código I
+
+// Haz los cambios para repetir 3 veces el valor de tipo string Hola en la consola del navegador.
+
+for(var i=0; i < 3; i++){
+	console.log("Hola");
+}
+
+//Haz los cambios para repetir 10 veces el valor del tipo string Hola en la consola del navegador.
+
+for (var i = 0; i < 150; i ++){
+console.log("Hola");
+}
+
+
+// Haz un ciclo for que llame 150 veces a console.log('Hola');
+
+for(var i=0; i<10 ; i++  ){
+  console.log("Hola");
+}

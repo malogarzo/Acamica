@@ -1,0 +1,22 @@
+Length
+
+//Muestra el largo del array
+Muestra el largo del array en la consola del navegador.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube", "Vimeo"];
+console.log(marcas.length);
+
+
+//Guarda el largo del array
+Guarda la cantidad de marcas del array marcas en una nueva variable llamada cantidad_de_marcas.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube", "Vimeo"];
+var cantidad_de_marcas = marcas.length;
+
+
+//Guarda y muestra el largo del array
+Guarda la cantidad de marcas del array marcas en una nueva variable llamada cantidad_de_marcas. A continuación, muestra en un cartel de alerta la cantidad de marcas.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube", "Vimeo"];
+var cantidad_de_marcas = marcas.length;
+alert(cantidad_de_marcas);

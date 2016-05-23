@@ -1,0 +1,20 @@
+Incluir nuevos valores
+
+
+//Agrega un elemento al array
+Agrega un elemento Google en la segunda posición del array. Recuerda que la segunda posición, es la número 1.
+
+var marcas = ["Apple"];
+marcas[1] = "Google";
+
+//Agrega un elemento al array
+Teniendo ya creada la variable con el Array de marcas, agregar la marca Youtube al final de dicho array.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook"];
+marcas[4] = "Youtube";
+
+//Agrega un elemento al array
+Ahora también agrega la marca Vimeo al final del array.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube"];
+marcas[5] = "Vimeo";

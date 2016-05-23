@@ -1,0 +1,26 @@
+Iterar array con un for
+
+//Itera 5 veces usando el bucle for
+Utiliza un for que dé 5 vueltas sucesivas e imprima, en cada vuelta, el número de la misma en la consola.
+
+for(i=0 ;i<5 ; i++ ) {
+  console.log(i);
+  
+}
+
+//Itera 10 veces usando el bucle for
+Utiliza un for que dé 10 vueltas sucesivas y comunique, en cada vuelta, Vuelta número: # (donde # es igual al número correspondiente a la vuelta) a través de la consola del navegador.
+
+for(i=0 ;i<10 ;i++ ) {
+  console.log("Vuelta número:"+i);
+}
+
+
+//Itera el largo de las marcas usando el bucle for
+Utiliza un for que itere sobre el array marcas y muestre en la consola del navegador la marca correspondiente en cada vuelta.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube"];
+
+for(i=0 ;i<marcas.length  ; i++  ){
+  console.log(marcas[i]);
+}

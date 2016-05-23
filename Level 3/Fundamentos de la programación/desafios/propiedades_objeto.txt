@@ -1,0 +1,26 @@
+Propiedades de un objeto
+
+//Crea un objeto
+Crea un objeto para guardar los datos de un libro. El objeto libro tendrá, en su interior las propiedades: titulo ("Rayuela"), autor ("Julio Cortázar") y publicacion (1963). Utiliza el operador new para la creación del objeto.
+
+var libro = new Object();
+
+libro.titulo = "Rayuela";
+libro.autor = "Julio Cortázar";
+libro.publicacion = 1963;
+
+
+//Crea un objeto
+Crea un objeto para guardar los datos de un libro. El objeto libro tendrá, en su interior las propiedades: titulo ("Rayuela"), autor ("Julio Cortázar") y publicacion (1963) respectívamente. Utiliza la notación de llaves {} para la creación del objeto.
+
+
+var libro = { titulo: "Rayuela", autor: "Julio Cortázar", libro.publicacion: 1963 };
+
+//Muestra en la consola los datos de objeto
+Teniendo el objeto libro con sus respectivas variables ya creadas, utiliza la consola de javascript para mostrar los tres datos del objeto por separado.
+
+var libro = {titulo: "Rayuela", autor: "Julio Cortázar", publicacion: 1963};
+
+console.log(libro.titulo);
+console.log(libro.autor);
+console.log(libro.publicacion);

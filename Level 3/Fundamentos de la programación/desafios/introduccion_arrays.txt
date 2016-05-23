@@ -1,0 +1,12 @@
+Introduccion a Arrays en JavaScript
+
+//Crea un array
+Declara un array llamado marcas utilizando la notación [] con los valores Apple, Google y Twitter respectívamente.
+
+var marcas = ["Apple", "Google", "Twitter"];
+
+//Crea un array
+Crea una variable de tipo array llamada animales utilizando la notación [], e incluir los valores: Perro y Gato respectívamente.
+
+var animales = ["Perro", "Gato"];
+

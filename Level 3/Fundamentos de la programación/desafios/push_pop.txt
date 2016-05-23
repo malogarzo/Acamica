@@ -1,0 +1,28 @@
+Push y Pop
+
+//Agrega un elemento al final del array
+Ya teniendo creado el array marcas, agrega la marca Acamica al final del array usando la función push.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube"];
+marcas.push("Acamica");
+
+
+//Quita y guarda el último elemento del array
+Ahora, quita el último elemento del array marcas y guardalo en una nueva variable llamada ultimaMarca.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube", "Acamica"];
+var ultimaMarca = marcas.pop();
+
+
+//Modifica el segundo elemento del array
+Modifica el segundo elemento del array marcas y haz que su valor sea igual a Instagram.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube"];
+marcas[1] = "Instagram";
+
+//Quita, guarda y agrega un elemento del array
+Quita el último elemento del array marcas y guardarlo en una variable llamada ultimaMarca. Luego, agrega nuevamente su valor al final del array marcas.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube"];
+var ultimaMarca = marcas.pop();
+marcas.push(ultimaMarca);

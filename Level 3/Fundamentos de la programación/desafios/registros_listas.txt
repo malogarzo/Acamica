@@ -1,0 +1,53 @@
+Registros y listas
+
+//Crea un objeto I
+Declara una variable nivelesDeLluvia que tenga los niveles de lluvia por cada día de una semana.
+lunes : 0
+martes: 0
+miercoles: 0.10
+jueves: 0.11
+viernes: 0.12
+sabado: 0
+domingo: 0
+
+
+var nivelesDeLluvia = {
+	lunes: 0, 
+	martes:0, 
+	miercoles:0.10, 
+	jueves:0.11, 
+	viernes:0.12, 
+	sabado:0, 
+	domingo:0
+};
+
+
+//Crea un objeto II
+Declara una variable aireAcondicionado que contenga las siguientes propiedades y sus respectivos valores: frigorias:4500, eficienciaEnergetica: C, marca: Wololo y que no es frioCalor respectívamente.
+Utiliza la notación de llaves {} para la creación del objeto.
+
+
+var aireAcondicionado = {
+	frigorias:4500, 
+	eficienciaEnergetica: 
+	"C", marca: "Wololo", 
+	frioCalor: false
+};
+
+
+//Crea un array de objetos
+Declara una variable ultimosMundiales que contenga la información de los últimos tres mundiales, en este orden:
+sede: Brasil, fecha: 2014, campeon: Alemania
+sede: Sudáfrica, fecha: 2010, campeon: España
+sede: Alemania, fecha: 2006, campeon: Italia
+Utiliza primero la notación de corchetes [] para indicar un array, y cada elemento debe ser un objeto, usando la notación de llaves {}.
+
+
+var ultimosMundiales = [
+  {sede: "Brasil", fecha: 2014, campeon: "Alemania"},
+  {sede: "Sudáfrica", fecha: 2010, campeon: "España"},
+  {sede: "Alemania", fecha: 2006, campeon: "Italia"}
+];
+
+
+

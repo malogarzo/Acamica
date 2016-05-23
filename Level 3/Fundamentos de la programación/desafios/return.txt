@@ -1,0 +1,28 @@
+Return
+
+//Define y ejecuta una función con dos parámetros
+Define una función hacerHelado que permita incluir dos insumos como parámetros, y que devuelva el nombre de dicho gusto como en el siguiente ejemplo: "parámetro1 y parametro2". Luego ejecuta dicha función.
+
+function hacerHelado(parametro1, parametro2){
+return parametro1+" y "+parametro2;
+}
+
+hacerHelado();
+
+//Define, devuelve y ejecuta una función
+Define una función llamada saludar que acepte como parámetro el nombre y devuelva Hola y el nombre concatenado. Luego ejecutar dicha función con el nombre Pedro.
+
+function saludar(nombre){
+  return "Hola "+nombre;
+}
+
+saludar("Pedro");
+
+//Define y ejecuta una función con dos parámetros
+Define una función hacerHelado que permita incluir dos insumos como parámetros, y que devuelva el nombre de dicho gusto como en el siguiente ejemplo: "parámetro1 y parametro2". Luego ejecuta dicha función.
+
+function hacerHelado(parametro1, parametro2){
+return parametro1+" y "+parametro2;
+}
+
+hacerHelado();

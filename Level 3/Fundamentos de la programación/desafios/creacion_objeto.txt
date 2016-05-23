@@ -1,0 +1,12 @@
+Creación de un objeto
+
+//Crea un objeto vacío
+Crea un objeto vacío llamado usuario, utilizando el operador new Object().
+
+var usuario = new Object();
+
+
+//Crea un objeto vacío
+Crea un objeto vacío llamado usuario, utilizando la notación {}
+
+var usuario = {};

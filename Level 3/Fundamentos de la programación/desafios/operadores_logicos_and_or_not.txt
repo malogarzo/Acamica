@@ -1,0 +1,41 @@
+Operadores lógicos: And, Or, Not.
+
+
+// Supongamos que están definidas las variables
+// var cantidadDeEmpanadas = 13;
+// var gusto = "carne";
+// Haz los cambios de forma tal que la condición dé verdadera si las cantidadDeEmpanadas son más de 12 y si el gusto es carne.
+
+// Completa el if
+if(cantidadDeEmpanadas > 12 && gusto == "carne"){
+  alert("El pedido es correcto");
+} else {
+  alert("El pedido es incorrecto");
+}
+
+
+
+// Haz los cambios de forma tal que la condición dé verdadera si las cantidadDeEmpanadas son 7 o el gusto sea ciruela.
+
+// Supongamos que están definidas las variables
+// var cantidadDeEmpanadas = 7;
+// var gusto = "ciruela";
+
+// Completa el if
+if(cantidadDeEmpanadas==7||gusto=="ciruela"){
+  alert("El pedido es correcto");
+} else {
+  alert("El pedido es incorrecto");
+}
+
+Haz los cambios necesarios de formal tal que la condición dé verdadera si las empanadas NO son de ciruela.
+
+// Supongamos que está definida la variable
+// var gusto = "ciruela";
+
+// Completa el if
+if(!(gusto=="ciruela")){
+  alert("El pedido es correcto");
+} else {
+  alert("El pedido es incorrecto");
+}

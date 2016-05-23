@@ -1,0 +1,24 @@
+¿Qué pasa cuando el objeto no existe?
+
+//Usa el condicional
+Completa el código de forma tal que se verifique la existencia del objeto persona antes de hacer uso de la propiedad nombre de dicho objeto.
+
+if (persona){
+  alert(persona.nombre);
+}
+
+//Completa el código
+Agrega la condición de que verifique la existencia del objeto periodico antes de hacer uso de la propiedad titulo de dicho objeto.
+
+if(periodico){
+	alert(periodico.titulo);
+}
+
+//Completa el código
+Completa el código para asegurarte que no produzca errores
+
+var usuario;
+if(usuario){
+	alert(usuario.edad);
+}
+

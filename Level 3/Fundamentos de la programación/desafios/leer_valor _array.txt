@@ -1,0 +1,21 @@
+Leer un valor del array
+
+
+//Guarda un elemento del array
+Ya teniendo creado el array marcas, guarda en una variable marcaFavorita el primer item del array marcas.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube"];
+var marcaFavorita = marcas[0];
+
+//Guarda un elemento del array
+Ahora, guarda también en la variable marcaFavorita el tercer item del array marcas.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube"];
+var marcaFavorita = marcas[2];
+
+
+//Guarda un elemento del array
+Y para terminar, guarda en la variable marcaFavorita el quinto item del array marcas.
+
+var marcas = ["Apple", "Google", "Twitter", "Facebook", "Youtube"];
+var marcaFavorita = marcas[4];
