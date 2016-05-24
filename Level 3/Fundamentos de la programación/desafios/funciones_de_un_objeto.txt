@@ -1,0 +1,9 @@
+Funciones de un objeto
+
+//Crea una variable
+Declara una variable unRectangulo, que contenga un alto de 2 y ancho de 3 respectívamente. Utiliza la notación de llaves {} para la creación del objeto.
+
+var unRectangulo = {
+	alto: 2,
+  	ancho: 3
+};	

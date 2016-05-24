@@ -1,0 +1,19 @@
+Variables locales a la función
+
+//Crea una variable local
+Agrega una variable local llamada nombre con el valor Laura.
+
+function inscribirUsuario(){
+	var nombre = "Laura";
+}
+
+
+//Usa las variable local y global
+Haciendo uso de la variable global mes y la variable local nombre ejecuta un alert desde adentro de la función en cuyo texto se lea Laura en Enero concatenando dos veces.
+
+var mes = "Enero";
+
+function inscribirUsuario(){
+  var nombre = "Laura";
+  alert(nombre+" en "+mes);
+}

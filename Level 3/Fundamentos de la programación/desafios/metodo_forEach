@@ -1,0 +1,27 @@
+Método forEach
+
+//Completa el código 
+Completa el código utilizando el método forEach para iterar por todo el array numeros.
+var numeros = [0,1,2,3,4];
+
+numeros.forEach(function(numeros){});
+
+//Recorre el array
+Utilizando nuevamente lo aprendido en la clase recorre el array libros e imprime el valor de los elementos en la consola.
+
+var libros = ["El principito","El psicoanalista","El ruido y la furia"];
+
+libros.forEach(function(libros){
+console.log(libros);
+});
+
+
+//Crea un array y recorrelo
+Crea un array ciudades con las ciudades San Juan, Cordoba y Buenos Aires. Y utiliza el forEach para recorrer el array e imprimir en la consola el índice y elemento separados por un espacio.
+
+var ciudades = ["San Juan", "Cordoba", "Buenos Aires"];
+
+ciudades.forEach(function(element, index){
+	console.log(index+" "+element);
+});
+
