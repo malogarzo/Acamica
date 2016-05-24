@@ -9,7 +9,7 @@
 
 <h4>Level 2</h4>
 <ul>
-	<li><a href="https://www.evernote.com/l/AT68xLIcljFDR6J_hsiSvfYRrSn8Plg1U1c">HTML: popular language</a></li>
+	<li><a href="https://www.evernote.com/l/AT68xLIcljFDR6J_hsiSvfYRrSn8Plg1U1c">HTML: a popular language</a></li>
 	<li><a href="https://www.evernote.com/l/AT6NsNp9uTVMf56BQxrJG21mKpH1AIlaA88" target="_blank">Starting with CSS</a></li>
 </ul>
 
@@ -20,7 +20,7 @@
 	<li><a href="https://www.evernote.com/l/AT7M51NJX39JEaALpNbLkVeIwGX0ZKKfATk">Programming basics</a></li>
 </ul>
 
-<h4>Level 4</h4>
+<!--<h4>Level 4</h4>
 <ul>
 	<li></li>
-</ul>
+</ul>-->
